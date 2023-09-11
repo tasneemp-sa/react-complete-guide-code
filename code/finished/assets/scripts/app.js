@@ -1,6 +1,7 @@
 // import { apiKey } from "./util.js";
 
-// import apiKey from "./util.js";
+import apiKey from "./util.js";
+console.log(apiKey);
 // import { apiKey, abc as content } from "./util.js";
 // import * as util from "./util.js";
 
@@ -150,7 +151,7 @@
 
 // const message = “Hello”;
 
-const hobbies = ["Sports", "Cooking"];
+// const hobbies = ["Sports", "Cooking"];
 // hobbies = [];
-hobbies.push("Working");
-console.log(hobbies);
+// hobbies.push("Working");
+// console.log(hobbies);
